@@ -24,7 +24,7 @@ int main()
     srand(time(0));
 
     printf("Pseudo Random Number Generator\n");
-    printf("-------------------------------\n");
+    printf("Althaf\n");
 
     printf("Enter number of random numbers: ");
     scanf("%d", &n);
@@ -43,7 +43,7 @@ int main()
 
 # OUTPUT:
 
-<img width="1743" height="1001" alt="Screenshot 2026-02-12 134513" src="https://github.com/user-attachments/assets/73656d5f-6320-44ea-adf4-0d3f701f2f72" />
+<img width="1736" height="928" alt="image" src="https://github.com/user-attachments/assets/b1d97019-f368-4285-9662-ab03eb54726f" />
 
 # RESULT:
 
